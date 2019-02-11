@@ -16,30 +16,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{DE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Web", "Shop.Web\Shop.Web.csproj", "{CDBED172-C102-4468-AB57-8D11DCFC7F31}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General", "General", "{064C3340-1A50-407E-ABFC-A1759992D890}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\4. Programacion Distribuida.pdf = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\4. Programacion Distribuida.pdf
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\_NET CORE _ XAMARIN FORMS _ XAMARIN CLASSIC _ MVVM CROSS.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\_NET CORE _ XAMARIN FORMS _ XAMARIN CLASSIC _ MVVM CROSS.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Azure Hub Notifications y Xamarin.pptx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Azure Hub Notifications y Xamarin.pptx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Cargar Imágenes con tipo de extensión SVG.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Cargar Imágenes con tipo de extensión SVG.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Configuración del Ambiente de Desarrollo para Xamarin (v5).docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Configuración del Ambiente de Desarrollo para Xamarin (v5).docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Demo SQLite Relations.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Demo SQLite Relations.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Envió de notificaciones Push en Xamarin Forms (v2).docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Envió de notificaciones Push en Xamarin Forms (v2).docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Facebook Login with Xamarin (V2).docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Facebook Login with Xamarin (V2).docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Formato Poster 70x100cm.pptx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Formato Poster 70x100cm.pptx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\impresionesRapidas.jpg = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\impresionesRapidas.jpg
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Lo que sigue.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Lo que sigue.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVC.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVC.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM Cross (v5).docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM Cross (v5).docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM Cross (v6).docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM Cross (v6).docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\MVVM.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Programación Distribuida - Presentación del Curso _ Primera Clase.pptx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Programación Distribuida - Presentación del Curso _ Primera Clase.pptx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Resource Manager.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Resource Manager.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Tomar Fotos y Acceder a la Galería.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Tomar Fotos y Acceder a la Galería.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Xamarin Forms Multi Lenguage.docx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Xamarin Forms Multi Lenguage.docx
-		..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Xamarin Introduction.pptx = ..\..\..\..\Users\osalazar\AppData\Local\Temp\Rar$DRa17288.9787\General\Xamarin Introduction.pptx
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{94D872DE-6F31-4346-979C-05076D5DD2C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classic", "Classic", "{76DE60B3-AD97-4B97-BF9B-749DA098178C}"
@@ -55,6 +31,30 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.UIClassic.Android", "Shop.UIClassic.Android\Shop.UIClassic.Android.csproj", "{65F1F193-61D5-4A3E-BB7C-31E010FFF348}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.UIClassic.iOS", "Shop.UIClassic.iOS\Shop.UIClassic.iOS.csproj", "{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General", "General", "{AC6A014A-108F-4F61-BB90-0C483133CA43}"
+	ProjectSection(SolutionItems) = preProject
+		General\4. Programacion Distribuida.pdf = General\4. Programacion Distribuida.pdf
+		General\_NET CORE _ XAMARIN FORMS _ XAMARIN CLASSIC _ MVVM CROSS.docx = General\_NET CORE _ XAMARIN FORMS _ XAMARIN CLASSIC _ MVVM CROSS.docx
+		General\Azure Hub Notifications y Xamarin.pptx = General\Azure Hub Notifications y Xamarin.pptx
+		General\Cargar Imágenes con tipo de extensión SVG.docx = General\Cargar Imágenes con tipo de extensión SVG.docx
+		General\Configuración del Ambiente de Desarrollo para Xamarin (v5).docx = General\Configuración del Ambiente de Desarrollo para Xamarin (v5).docx
+		General\Demo SQLite Relations.docx = General\Demo SQLite Relations.docx
+		General\Envió de notificaciones Push en Xamarin Forms (v2).docx = General\Envió de notificaciones Push en Xamarin Forms (v2).docx
+		General\Facebook Login with Xamarin (V2).docx = General\Facebook Login with Xamarin (V2).docx
+		General\Formato Poster 70x100cm.pptx = General\Formato Poster 70x100cm.pptx
+		General\impresionesRapidas.jpg = General\impresionesRapidas.jpg
+		General\Lo que sigue.docx = General\Lo que sigue.docx
+		General\MVC.docx = General\MVC.docx
+		General\MVVM Cross (v5).docx = General\MVVM Cross (v5).docx
+		General\MVVM Cross (v6).docx = General\MVVM Cross (v6).docx
+		General\MVVM.docx = General\MVVM.docx
+		General\Programación Distribuida - Presentación del Curso _ Primera Clase.pptx = General\Programación Distribuida - Presentación del Curso _ Primera Clase.pptx
+		General\Resource Manager.docx = General\Resource Manager.docx
+		General\Tomar Fotos y Acceder a la Galería.docx = General\Tomar Fotos y Acceder a la Galería.docx
+		General\Xamarin Forms Multi Lenguage.docx = General\Xamarin Forms Multi Lenguage.docx
+		General\Xamarin Introduction.pptx = General\Xamarin Introduction.pptx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -288,7 +288,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CDBED172-C102-4468-AB57-8D11DCFC7F31} = {DCE9320B-E0FA-4DED-A46C-611B47788543}
-		{064C3340-1A50-407E-ABFC-A1759992D890} = {9AE9CD3F-6EE9-44A5-8451-BEACC9B7A2ED}
 		{94D872DE-6F31-4346-979C-05076D5DD2C7} = {DE271FC9-24B7-4D85-BEEE-14F23206337E}
 		{76DE60B3-AD97-4B97-BF9B-749DA098178C} = {DE271FC9-24B7-4D85-BEEE-14F23206337E}
 		{A9211B63-E325-48ED-9C28-65A7606B8EEB} = {94D872DE-6F31-4346-979C-05076D5DD2C7}
@@ -297,6 +296,7 @@ Global
 		{1A2C7529-B481-4D6E-91F8-7F88D976ED62} = {76DE60B3-AD97-4B97-BF9B-749DA098178C}
 		{65F1F193-61D5-4A3E-BB7C-31E010FFF348} = {76DE60B3-AD97-4B97-BF9B-749DA098178C}
 		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60} = {76DE60B3-AD97-4B97-BF9B-749DA098178C}
+		{AC6A014A-108F-4F61-BB90-0C483133CA43} = {9AE9CD3F-6EE9-44A5-8451-BEACC9B7A2ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0D53BAB-76F9-4CD9-B3EA-5487A15458AD}
